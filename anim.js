@@ -4,7 +4,12 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Como en la canción Yellow", time: 41 },
+  { text: "Como las flores que tanto te gustan,  ", time: 15 },
+  { text: "mi amor por ti ilumina cada día", time: 18 },
+  { text: "aunque no estés aquí", time: 27 },
+  { text: "Te extraño profundamente", time: 32 },
+  { text: "esperando el momento en que volvamos a florecer juntos", time: 35 },
+  { text: "Como en la canción Yellow", time: 32 },
   { text: "mi amor por ti sigue brillando.", time: 47 },
   { text: "Te extraño y espero con ansias", time: 54 },
   { text: "el día en que estemos juntos de nuevo", time: 59 },
